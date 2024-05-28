@@ -1,0 +1,2 @@
+collection of similar items under one name
+we have primitive data type using these we can define our own data type

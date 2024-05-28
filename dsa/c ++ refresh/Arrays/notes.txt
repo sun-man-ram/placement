@@ -1,0 +1,4 @@
+PS C:\Users\geniu\OneDrive\Desktop\placement\dsa\c ++ refresh\Arrays> g++ main.cpp -o main     
+PS C:\Users\geniu\OneDrive\Desktop\placement\dsa\c ++ refresh\Arrays> ./main.exe
+20
+PS C:\Users\geniu\OneDrive\Desktop\placement\dsa\c ++ refresh\Arrays>
