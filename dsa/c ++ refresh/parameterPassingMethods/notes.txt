@@ -1,0 +1,12 @@
+three parameter passing methods
+passing by value  || call by value
+passing by reference
+passing by address
+
+passing by address
+call by address used pointers
+one function cant get the access of variables  other functions but can get using pointers
+
+passing by reference 
+
+// here how can this be accessed because here swap is not a seperate function :)

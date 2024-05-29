@@ -1,0 +1,18 @@
+functions are also called as modules 
+generally everything is going inot main function.writing all in main function is not 
+good style of programming we break this into smaller tasks 
+
+see photo screenshot
+
+everything inside main is callled monolithic programming
+breaking down into function and writing is called modular programming
+
+
+how to write a function :)
+function int add(int a,int b){ //formal parameters
+int c;
+c-a+b;
+return c;
+}
+
+//actual parameters
