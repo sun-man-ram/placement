@@ -10,7 +10,8 @@ int add(int a,int b)
 
   return c;
 }
-int main(){
+int main()
+{
    int num1=10,num2=15,sum;
    sum=add(num1,num2);
   //num 1 and num2 are actual parameters
