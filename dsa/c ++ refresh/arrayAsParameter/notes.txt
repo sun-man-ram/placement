@@ -1,0 +1,8 @@
+arrays can not  be passed by value they only can be passed by addresses :)
+
+internal changes can be made in the function 
+
+returning array in function
+
+
+using pointer to return an array
