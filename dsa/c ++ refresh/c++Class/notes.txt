@@ -1,0 +1,8 @@
+using scope resolution operator we can implement fucntion outside class
+just by defining them :)
+generally scope resolution stuff
+(function_ReturnType) (class_name) :: (function_name)
+int Rectangle :: area()
+{
+    // implement what u want :)
+}

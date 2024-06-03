@@ -1,5 +1,6 @@
 #include<iostream>
 #include<stdio.h>
+// #include<bits/stdc++.h>
 using namespace std;
 // here i am passing structre as a parameter
 struct rectangle{
@@ -18,6 +19,8 @@ int area1(rectangle &a){
 }
 // call by address
 int area2(rectangle *r){
+  // for pointer we use an arrow we ont use an dot because of operational precedence
+
   r->length++;
  cout<<"area "<<r->length*r->breadth<<endl;
 

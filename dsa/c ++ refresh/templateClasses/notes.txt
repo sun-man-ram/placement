@@ -1,0 +1,11 @@
+though operations are same should i write for another class if return type is 
+different
+
+
+for example :
+
+
+if i have written int add(int a,int b) function but i need at add float numbers
+and return type is float here the logic would same should i write float add(float a,float b)
+no c++ provides generic class :)
+
