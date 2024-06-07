@@ -5,7 +5,10 @@ using namespace std;
 
 
 /*
-object orient have x properties and their methods
+object orient have 
+x properties 
+and 
+their methods
 
 
 the object whihc is created in main function need to call the method like r.method()

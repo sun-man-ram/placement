@@ -1,0 +1,84 @@
+data is an integral part of your program
+program is nothing but set of instruction to perform over data 
+the word data is used in many places like data structure data  ware house data cleaning big data 
+
+introduction to data sructure
+arrangement of data in a fasion where operations on data can be done efficiently 
+data is kept in main memory :)
+during the execution of program both program and data need to in main memory not in hdd
+see (1).png
+
+
+
+
+dataBases
+how this data is arranging in some model like relational in permanent is called dataBases
+
+dataStructure is arranging this in main memory 
+operationla data can be used daily legacy data is like historical data can 
+be kept away of the disc this is data ware house :)
+
+see (2).png for what is data ware house,big data  etc 
+
+
+see (3).png 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+understand memory 
+
+the memory is divided into smaller dividable units called bytes.every byte is having its address
+see (4).png  
+
+if in memory i have large ram like 4 gb or 8 gb entire is not used they are divided into segment called 64 kb
+
+
+
+how our program uses main memory 
+
+see (5).png
+see (6).png
+
+static memory allocation through program how many bytes of memory is required is decided at compiler time :)
+that is static memory allocation
+
+what is activation record or stack frame of main function
+
+the activation records are created like this so the fadhion is called stack :)
+
+what is heap ?
+
+heap is used in two cases if it is organised in tower like thing 
+heap is used in unorganised thing 
+
+
+stack memory is organised but heap here is unorganised :)
+
+heap memory is like resource
+
+
+programs cannot access heap memory 
+
+using pointer only it can access heap memory
+
+
+
+
+
+

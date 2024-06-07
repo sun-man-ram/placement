@@ -1,0 +1,17 @@
+1)
+character set // ascii code
+
+character set is the set of characters supported by language which is 
+same as computer supported charcater.
+
+how can we support character by computers as computaer is a binary 
+system
+
+ we give every character a numeric value.
+
+
+ unicodes are for other langauge like chinese hindi etc 
+
+
+ 
+
