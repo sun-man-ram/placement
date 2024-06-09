@@ -1,24 +1,14 @@
 #include<iostream>
 #include<stdio.h>
+#include<stdlib.h>
 using namespace std;
-// int add(int a,int b){
-//     int c=a+b;
-//     return c;
-// }
-// int add(int *a,int *b){
-//     int c=*a+*b;
-//     return c;
-// }
-int add(int &a,int &b){
-    int c=a+b;
-    return c;
+int add(int a ,int b){
+  return a+b;
 }
 int main(){
-    int a=1,b=2;
-    int n;
-    cout<<"enter value of n "<<endl;
-    cin>>n;
-   cout<<add(a,b)<<endl;
-    
+
+   int num1=1020304;
+   int num2=389843;
+   cout<<add(num1,num2)<<endl;
     return 0;
 }
